@@ -20,7 +20,7 @@
     "grp.act.nnid": "ID de Nintendo Network",
     "grp.act.nnid_help": "Se utiliza para obtener información de Mii y otros",
     "grp.act.screenname": "Nombre de pantalla",
-    "grp.act.screenmii_name": "Nombre de pantalla / Nombre de Mii",
+    "grp.act.screenmii_name": "Nombre de Usuario / Nombre de Mii",
     "grp.act.screenname_help": "Nombre con el que aparecerás; será el nombre de Mii de NNID si está en blanco",
     "grp.act.login_account_signup": "Si no tienes una cuenta, puedes obtener una %saquí%s.",
     "grp.act.index_welcome": "¡Bienvenido, %s!",
