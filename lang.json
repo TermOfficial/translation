@@ -27,7 +27,7 @@
     "grp.act.index_logout": "Cerrar sesion (No esta disponible en Wii U)",
     "grp.portal.titles_headline": "Todo el Software (%d)",
     "grp.portal.favorites_my": "Communidades Favoritas",
-    "grp.portal.favorites_other": "%s's Favorite Communities",
+    "grp.portal.favorites_other": "Comunidades Favoritas De %s",
     "grp.portal.no_favorites_my": "Toca Este botón ☆ en una communidad para mostrarla como una comunidad favorita aqui.",
     "grp.portal.no_favorites_other": "Aun no hay comunidades favoritas.",
     "grp.portal.no_community": "Aun no hay communidades en esta categoria.",
